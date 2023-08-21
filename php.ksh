@@ -1,0 +1,1 @@
+yum -y install php-fpm php-pspell php php-devel php-intl php-xml php-embedded php-gd php-pdo php-process php-pgsql php-recode php-soap php-common php-mbstring php-odbc php-pecl-memcache php-snmp php-cli php-dba php-ldap php-pear php-enchant php-mysqlnd php-xmlrpc php-bcmath
